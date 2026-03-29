@@ -77,8 +77,8 @@
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/ventdejanvier/QuanLyNhanSu_3Tang_ADO.NET.git
-cd QuanLyNhanSu_3Tang_ADO.NET
+git clone https://github.com/ventdejanvier/hr-management-winforms-adonet.git
+cd hr-management-winforms-adonet
 ```
 
 ### 2. Tạo cơ sở dữ liệu
